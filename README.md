@@ -1,2 +1,2 @@
 # Collect_or
-Student projet web development
+Student Crowdfunding Project
